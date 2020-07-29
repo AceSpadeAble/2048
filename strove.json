@@ -1,4 +1,4 @@
 {
  "ports": [1000, 2200, 3400],
- "extensions": ['vscjava.vscode-java-pack']
+ "extensions": ["vscjava.vscode-java-pack"]
 }
